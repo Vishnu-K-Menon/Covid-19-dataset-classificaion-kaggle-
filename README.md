@@ -1,1 +1,2 @@
 # Covid-19-dataset-classificaion-kaggle-
+repository for the detection of covid -19 through X-ray images using CNN. Covid-19 Image Dataset cosist of 137 images of chest X-rays divided into  3 classes which are normal, covid, Viral Pneumonia. these are brnached into training and test directories. the image dataset is classified using 2D convolutional network with 91% training accuracy and 77% test accuracy 
